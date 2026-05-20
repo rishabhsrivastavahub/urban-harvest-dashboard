@@ -61,7 +61,7 @@ npm run build
 
 ## Deployment
 
-If you deploy this app, include your GitHub repo link and demo link here.
+Deployed link- https://urban-harvest-dashboard-ten.vercel.app/
 
 ## License
 
